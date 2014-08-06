@@ -1,4 +1,4 @@
-#summary Getting started
+#summary How to get started
 
 == Requirements ==
 
@@ -26,6 +26,4 @@ Download the following files from http://www.cs.toronto.edu/~rkiros/multimodal.h
   * IAPR TC-12 trained models
 
 Our models are pre-trained using the publicly available 50-dimensional scaled representations from Turian et al. These are recommended for training new models. Download them from here: http://metaoptimize.com/projects/wordreprs/ and place them in the 'embeddings' directory. 
-
-
 
