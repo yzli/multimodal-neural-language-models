@@ -11,7 +11,7 @@ import proc
 (z, zt) = proc.process()
 }}}
 
-This will pre-process the data files and store the results on two dictionaries: _z_ and _zt_. These dictionaries contain all the data, image features and additional structures necessary for training and evaluation. The dictionary _z_ stores all training (and validation) data while _zt_ is used for testing. More details about the contents of these dictionaries can be found _HERE_.
+This will pre-process the data files and store the results on two dictionaries: _z_ and _zt_. These dictionaries contain all the data, image features and additional structures necessary for training and evaluation. The dictionary _z_ stores all training (and validation) data while _zt_ is used for testing. More details about the contents of these dictionaries can be found [AddDetails here].
 
 Now load a trained model file:
 
