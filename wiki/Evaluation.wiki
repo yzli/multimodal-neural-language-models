@@ -73,4 +73,4 @@ As expected, the BLEU scores are significantly lower. Full logs from each of the
 
 == Evaluation on other models ==
 
-If you have trained new models (see HERE), they can be evaluated in exactly the same way, simply by loading them using the same command.
+If you have trained new models (see [PageName here]), they can be evaluated in exactly the same way, simply by loading them using the same command.
