@@ -118,7 +118,7 @@ epoch 8... nlogprob:  1.9685, 2.2351 (524.698 sec)
 epoch 9... nlogprob:  1.9268, 2.2338 (535.200 sec)
 }}}
 
-The columns of numbers correspond to the negative log-likelihood on the training and validation sets, respectively. In brackets is the number of seconds it takes to complete an epoch. From this example, each epoch takes just under 9 minutes.
+The columns of numbers correspond to the negative log probabilities on the training and validation sets, respectively. In brackets is the number of seconds it takes to complete an epoch. From this example, each epoch takes just under 9 minutes.
 
 To load a new model, run the following:
 
